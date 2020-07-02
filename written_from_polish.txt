@@ -1,0 +1,4 @@
+Time when function was called, 2020-07-02 22:44:50.504841,
+Function name, polish,
+All arguments: (['-', '2', '2'],), {},
+Returned values: None
