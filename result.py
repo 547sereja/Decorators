@@ -1,0 +1,1 @@
+/Users/apple/Desktop/Decorators/result.py
