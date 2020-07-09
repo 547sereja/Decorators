@@ -20,7 +20,7 @@ os.getcwd()
 
 
 if __name__ == "__main__":
-    @parametrized_decor(parameter=os.path.abspath('result.py'))
+    @parametrized_decor(parameter=os.path.abspath('result.txt'))
     def one(*args, **kwargs):
         list = []
         for i in range(10**4):
